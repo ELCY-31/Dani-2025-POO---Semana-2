@@ -1,3 +1,4 @@
+# Tecnicas de la POO
 from abc import ABC, abstractmethod
 
 # Abstracción
