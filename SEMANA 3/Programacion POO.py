@@ -31,7 +31,7 @@ class ClimaSemanal(Clima):
             except ValueError as e:
                 print(e)
 
-# Calculamos el promedio del clima semanal
+# Calculamos el promedio del clima de la semana
     def calcular_promedio_semanal(self):
         return self.calcular_promedio()
 
