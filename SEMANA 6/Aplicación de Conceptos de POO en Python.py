@@ -32,7 +32,7 @@ class Caballo(Animal):
 def animal_habitual_habito(animal):
     print(animal.hablar())
 
-# Creación de instancias y demostración de funcionalidad
+# Creación de instancias y la demostración de funcionalidad
 def main():
     perro = Perro("Bam")
     caballo = Caballo("Dante")
