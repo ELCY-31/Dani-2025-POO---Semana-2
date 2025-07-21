@@ -24,7 +24,8 @@ def mostrar_menu():
         '4': 'SEMANA 4/Clase.py/Las 4 Tecnicas.py',
         '5': 'SEMANA 5/Tipos de datos, Identificadores.py',
         '6': 'SEMANA 6/Aplicación de Conceptos de POO en Python.py',
-        '7': 'SEMANA 7/Constructores y Destructores en Python.py'
+        '7': 'SEMANA 7/Constructores y Destructores en Python.py',
+        '8': 'SEMANA 8/Adaptacion del Dashboard.py'
     }
 
     while True:
