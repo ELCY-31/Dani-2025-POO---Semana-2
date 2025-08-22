@@ -109,7 +109,7 @@ class Inventario:
                 print("Error al guardar los cambios en el archivo.")
                 return False
         else:
-            print("Error: Este producto no se encuentra.")
+            print("Error: Este producto no se encuentra en el inventario.")
             return False
 
     def buscar_producto(self, nombre):
