@@ -1,5 +1,5 @@
 # inventario.py
-# My Pequeño Inventario
+# Mi mini super e inventario
 import os
 # Clase Producto
 class Producto:
