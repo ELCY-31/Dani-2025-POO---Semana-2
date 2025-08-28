@@ -1,5 +1,5 @@
 import os
-# Mi mini super e inventario
+# Mi inventario
 # class base
 class Producto:
     def __init__(self, id, nombre, cantidad, precio):
